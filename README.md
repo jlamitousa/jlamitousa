@@ -1,1 +1,1 @@
-👋 Hi, I’m @jlamitousa, yoroshiku onegaishimasu !
+👋 Hi, I’m @jlamitousa, a backend developer yoroshiku onegaishimasu !
